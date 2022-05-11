@@ -1,0 +1,9 @@
+.container {
+  margin: 0 auto;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  padding-left: 20px;
+  padding-right: 20px;
+  width: 100%;
+}
+/*# sourceMappingURL=App.css.map */
